@@ -26,13 +26,14 @@ The notebook includes:
 (Optional) Create and activate a virtual environment:
 
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+source venv/bin/activate  
+
 Install the dependencies:
 
-
 pip install -r requirements.txt
+
 Launch Jupyter Notebook:
-t
+
 jupyter notebook Faisal_Baber_Assignment_12.ipynb
 
 # Requirements
